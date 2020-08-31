@@ -4,7 +4,7 @@ import IconAwesome from 'react-native-vector-icons/FontAwesome5';
 import IconMaterial from 'react-native-vector-icons/MaterialIcons';
 import IconEntypo from 'react-native-vector-icons/Entypo';
 
-//IconAwesome.loadFont(); //acusa erro: default.loadfont undefined
+//IconAwesome.loadFont(); //acusa o erro: default.loadfont undefined
 IconMaterial.loadFont();
 IconEntypo.loadFont();
 
