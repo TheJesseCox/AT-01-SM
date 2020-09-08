@@ -11,7 +11,7 @@ export function Profile(){
                 <Text style={{ fontSize:25 , fontWeight: 'bold'}}>{"\n\t"}Plataformas</Text>
                 <Text>{"\t"}Python, Java, React, Reac-Native.</Text>
                 <Text style={{ fontSize:25 , fontWeight: 'bold'}}>{"\n\t"}Hobbies</Text>
-                <Text>{"\t"}- Assistir desenhos oriundos do oriente{"\n\t"}- Ler quadrinhos de origem coreana{"\n\t"}Jogar videojogos.</Text>
+                <Text>{"\t"}- Assistir desenhos oriundos do oriente{"\n\t"}- Ler quadrinhos de origem coreana{"\n\t"}- Jogar videojogos.</Text>
                 <Text style={{ fontSize:25 , fontWeight: 'bold'}}>{"\n\t"}Gostaria de Trabalhar:</Text>
                 <Text>{"\t"}- Com grande remuneração{"\n\t"}- Felicidade{"\n\t"}- Ganhando grana{"\n\t"}- Recebendo capital{"\n\t"}- Adquirindo 'money'</Text>
             </View>
